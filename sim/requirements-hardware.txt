@@ -1,0 +1,4 @@
+-r requirements.txt
+# This robot reports FCI server protocol 9. PyPI's pylibfranka releases use
+# protocol 10, so pylibfranka/libfranka 0.17.0 is built from the local
+# /home/rllab2/libfranka checkout and installed separately into .venv.
